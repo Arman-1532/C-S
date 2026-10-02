@@ -1,0 +1,14 @@
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/bin/Debug/net7.0/myfirstproject
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/bin/Debug/net7.0/myfirstproject.deps.json
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/bin/Debug/net7.0/myfirstproject.runtimeconfig.json
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/bin/Debug/net7.0/myfirstproject.dll
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/bin/Debug/net7.0/myfirstproject.pdb
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.AssemblyInfoInputs.cache
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.AssemblyInfo.cs
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.csproj.CoreCompileInputs.cache
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.dll
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/refint/myfirstproject.dll
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.pdb
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/myfirstproject.genruntimeconfig.cache
+/Users/abdullaharman/Documents/practice_c_sharp/myfirstproject/obj/Debug/net7.0/ref/myfirstproject.dll
